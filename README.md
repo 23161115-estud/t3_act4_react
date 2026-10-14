@@ -83,7 +83,8 @@ La `key` le permite a React identificar cada elemento de la lista. Así, cuando 
 
 ### d) Enlace del repositorio de GitHub
 
-
+https://github.com/23161115-estud/t3_act4_react
 
 ### e) Enlace del proyecto desplegado en GitHub Pages
 
+https://23161115-estud.github.io/t3_act4_react/
