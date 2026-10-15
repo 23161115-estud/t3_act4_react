@@ -1,4 +1,16 @@
 node_modules
 dist
-.DS_Store
+dist-ssr
+build
+coverage
+*.local
+.env
+.env.*
+!.env.example
 *.log
+logs
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+*.sw?
